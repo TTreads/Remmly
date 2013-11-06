@@ -1,4 +1,4 @@
-Remmly
+Remmly verison 1.0.0
 ======
 
-Make Remmly best personal online note storage.
+Make Remmly the best personal online note storage.
