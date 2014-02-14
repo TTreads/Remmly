@@ -37,6 +37,7 @@ echo "		background-color : #EDF2B5;\n";
 echo "		}\n";
 echo "		.orange {\n";
 echo "		background-color : #F2D3B5;\n";
+echo "		}\n";
 echo "	</style>\n";
 echo "	<link href=\"css/bootstrap-responsive.css\" rel=\"stylesheet\">\n";
 echo "	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->\n"; 
